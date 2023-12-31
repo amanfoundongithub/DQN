@@ -9,4 +9,4 @@ The problem was to balance a cart using Deep Q Network Learning. The state param
 
 The actions are only of two kinds, involving pushing or pulling the cart. 
 
-The objective is to keep the pole straight and apart from falling for as long as possible. Each time we keep this pole stable, we get +1 reward. The problem is considered solved if the average of 100 trials is more than 195. 
+The objective is to keep the pole straight and apart from falling for as long as possible. Each time we keep this pole stable, we get +1 reward. The problem is considered solved if the average of 100 trials is more than 475.
